@@ -14,6 +14,7 @@ from dash.exceptions import PreventUpdate
 # import local modules
 from config_settings import *
 from data_processing import *
+from make_components import *
 from styling import *
 
 
